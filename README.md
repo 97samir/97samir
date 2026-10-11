@@ -2,99 +2,69 @@
 
 ### Desarrollador Backend Junior | Java · Spring Boot · REST APIs
 
-Soy desarrollador de software enfocado en **Backend Development**, con interés en construir aplicaciones seguras, bien organizadas y mantenibles.
+Desarrollador de software enfocado en **Backend Development**, con interés en construir aplicaciones seguras, organizadas y mantenibles.
 
 Trabajo principalmente con Java y Spring Boot, desarrollando APIs REST e integrando bases de datos. También tengo conocimientos de frontend con React, lo que me permite comprender la comunicación entre el cliente y el servidor.
 
-Actualmente continúo fortaleciendo mis habilidades mediante proyectos prácticos, con especial interés en arquitectura de aplicaciones, seguridad, diseño de bases de datos y procesamiento asíncrono.
-
-## Tecnologías y herramientas
-
-**Backend Development**
-- Java
-- Spring Boot
-- Spring Data JPA
-- Spring Security
-- REST APIs
-- JWT Authentication
-
-**Databases**
-- PostgreSQL
-- SQL Server
-
-**Frontend Development**
-- JavaScript
-- React
-- Vite
-- Bootstrap
-- TanStack Query
-
-**Tools & Development Environment**
-- Git & GitHub
-- Docker
-- Maven
-- IntelliJ IDEA
-- Visual Studio Code
-
-**Actualmente aprendiendo**
-- RabbitMQ — Message Queues & Asynchronous Processing
-- Redis — Caching
+Actualmente fortalezco mis habilidades mediante proyectos prácticos, aplicando buenas prácticas de desarrollo y explorando tecnologías para el procesamiento asíncrono y la gestión eficiente de datos.
 
 ## Proyectos destacados
 
-### 1. Cervalid — Plataforma de Certificación Académica
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Order Management API</h3>
+      <p>API REST para la gestión de pedidos, desarrollada para practicar el diseño de endpoints, la persistencia de datos, la autenticación y la organización del código backend.</p>
+      <p><strong>Tecnologías</strong></p>
+      <p>Java · Spring Boot · PostgreSQL · JWT · Docker</p>
+      <p><strong>Estado:</strong> Proyecto terminado</p>
+      <a href="https://github.com/97samir/order-management-api">Ver repositorio</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Async Processing API</h3>
+      <p>API backend enfocada en el procesamiento asíncrono de tareas y el uso de caché para practicar la comunicación entre componentes y mejorar el acceso a los datos.</p>
+      <p><strong>Tecnologías</strong></p>
+      <p>Java · Spring Boot · RabbitMQ · Redis</p>
+      <p><strong>Estado:</strong> Proyecto terminado</p>
+      <a href="https://github.com/97samir/async-processing-api">Ver repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Cervalid — Plataforma de Certificación Académica</h3>
+      <p>Plataforma web orientada a la certificación y trazabilidad académica, diseñada para facilitar la gestión y verificación de certificados y la consulta de trayectorias académicas.</p>
+      <p><strong>Backend:</strong> Java · Spring Boot</p>
+      <p><strong>Frontend:</strong> React · Vite</p>
+      <p><strong>Estado:</strong> Proyecto en desarrollo</p>
+      <a href="https://github.com/97samir/cervalid-backend">Repositorio Backend</a> ·
+      <a href="https://github.com/97samir/cervalid-frontend">Repositorio Frontend</a>
+    </td>
+  </tr>
+</table>
 
-Plataforma web orientada a la certificación y trazabilidad académica, diseñada para facilitar la gestión y verificación de certificados mediante información verificable y organizada.
+## Tecnologías y herramientas
 
-**Enfoque técnico:** desarrollo de una aplicación web, gestión de usuarios y permisos, módulos académicos e integración entre frontend y backend.
+| Categoría | Tecnologías |
+|---|---|
+| **Backend** | Java, Spring Boot, Spring Data JPA, Spring Security, REST APIs, JWT |
+| **Bases de datos** | PostgreSQL, SQL Server |
+| **Frontend** | JavaScript, React, Vite, Bootstrap, TanStack Query |
+| **Herramientas** | Git, GitHub, Docker, Maven, IntelliJ IDEA, Visual Studio Code |
 
-- **Backend:** Java · Spring Boot
-- **Frontend:** React · Vite
-- **Objetivo:** facilitar la verificación de certificados y la consulta de la trayectoria académica.
-
- [Repositorio Backend](https://github.com/97samir/cervalid-backend)  
- [Repositorio Frontend](https://github.com/97samir/cervalid-frontend)
-
-### 2. Order Management API
-
-API REST para la gestión de pedidos, desarrollada como proyecto práctico de Backend Development.
-
-**Enfoque técnico:** diseño de endpoints REST, persistencia de datos, autenticación y organización de una aplicación backend.
-
-- Java
-- Spring Boot
-- PostgreSQL
-- JWT
-- Docker
-
- [Ver repositorio](https://github.com/97samir/order-management-api)
-
-### 3. Async Processing API
-
-Proyecto de aprendizaje enfocado en el procesamiento asíncrono de tareas y el uso de caché en aplicaciones backend.
-
-**Objetivo técnico:** comprender cómo desacoplar procesos mediante mensajería y mejorar el acceso a datos mediante caching.
-
-- Java · Spring Boot
-- RabbitMQ — Message Queues
-- Redis — Caching
-
-*Proyecto planificado/en desarrollo. Las tecnologías y funcionalidades se irán documentando conforme se implementen.*
-
-[Ver repositorio](https://github.com/97samir)
+**Actualmente aprendiendo:** RabbitMQ (procesamiento asíncrono) y Redis (caché).
 
 ## Objetivos de aprendizaje
 
 - Profundizar en Java y Spring Boot.
-- Mejorar el diseño, la seguridad y el testing de APIs REST.
+- Mejorar el diseño, la seguridad y las pruebas de APIs REST.
 - Aplicar buenas prácticas de desarrollo y organización del código.
-- Aprender a implementar procesamiento asíncrono y caching.
-- Seguir fortaleciendo mis conocimientos de frontend e integración Full Stack.
+- Fortalecer mis conocimientos de procesamiento asíncrono y caché.
+- Seguir aprendiendo sobre frontend e integración Full Stack.
 
 ## Contacto
 
-- **LinkedIn:** [Mi perfil profesional](www.linkedin.com/in/samir-chura-oscco)
-- **Email:** [Contactarme por correo](mailto:samirchura97@gmail.com)
+- **LinkedIn:** [Mi perfil profesional](https://www.linkedin.com/in/samir-chura-oscco/)
+- **Email:** [samirchura97@gmail.com](mailto:samirchura97@gmail.com)
 - **GitHub:** [@97samir](https://github.com/97samir)
 
-Estoy abierto a oportunidades laborales como **Backend Developer Junior** y a posiciones relacionadas con desarrollo de software donde pueda seguir aprendiendo y aportar a proyectos reales.
+Estoy abierto a oportunidades laborales como **Backend Developer Junior** y a posiciones relacionadas con el desarrollo de software donde pueda seguir aprendiendo y contribuir a proyectos reales.

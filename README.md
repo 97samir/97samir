@@ -47,8 +47,8 @@ Actualmente fortalezco mis habilidades mediante proyectos prácticos, aplicando 
 | Categoría | Tecnologías |
 |---|---|
 | **Backend** | Java, Spring Boot, Spring Data JPA, Spring Security, REST APIs, JWT |
-| **Bases de datos** | PostgreSQL, SQL Server |
-| **Frontend** | JavaScript, React, Vite, Bootstrap, TanStack Query |
+| **Bases de datos** | PostgreSQL  |
+| **Frontend** | JavaScript, React, Vite, Bootstrap |
 | **Herramientas** | Git, GitHub, Docker, Maven, IntelliJ IDEA, Visual Studio Code |
 
 **Actualmente aprendiendo:** RabbitMQ (procesamiento asíncrono) y Redis (caché).
